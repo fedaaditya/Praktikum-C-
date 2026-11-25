@@ -215,7 +215,7 @@ void lihatAntrian() {
     cout << "\nSisa antrian: " << jumlahAntrian - indeksPanggil << " pasien\n";
 }
 
-// main disini
+// main disiniiii
 int main() {
     int menu;
     do {
